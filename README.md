@@ -1,5 +1,5 @@
-## Website can be found at https://smartbrain-relnar650.herokuapp.com/ 
-
+## Website can be found at https://smartbrain-relnar650.herokuapp.com/ <br>(may take 1 minute to load because of the free Heroku account)
+<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
